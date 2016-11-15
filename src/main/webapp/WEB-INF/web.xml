@@ -1,0 +1,15 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+   <!-- General description of your web application -->
+   <display-name>gradle-demo - Webapp</display-name>
+      <description>
+         Describe the gradle-demo Webapp here.
+         wangzx@example.com
+
+         See http://tomcat.apache.org/tomcat-6.0-doc/appdev/web.xml.txt for more information
+         regarding this Web Descriptor File.
+   </description>
+</web-app>

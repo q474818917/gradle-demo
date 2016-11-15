@@ -5,6 +5,7 @@
 .settings
 .classpath
 .gradle
+build
 target
 *.via
 *.tmp
